@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  height: 50px;
+  font-size: 45px;
+}
+
+header {
+  background-color: rgb(236, 48, 48);
+  height: 350px;
+}
+
+image {
+  height: 20px;
+}
+
+#social-media {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#social-media li {
+  display: inline;
+  padding: 0px 20px;
+  text-decoration: none;
+}
+
+#social-media li img {
+  width: 20px;
+}
